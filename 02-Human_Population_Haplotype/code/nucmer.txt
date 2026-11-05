@@ -1,0 +1,8 @@
+# working-dir names: b38_alt.fa = b38_PRSSonly_alt.fasta ; chimpanzee.fa = chimpanzee_chr7_2.fasta
+nucmer /picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/fasta/v12_NA20509_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta /picb/humpopg-bigdata2/wangyimin/PRSS/fasta/b38_PRSSonly.fasta
+nucmer /picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/fasta/v12_NA20509_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta /picb/humpopg-bigdata2/wangyimin/PRSS/fasta/b38_PRSSonly_alt.fasta
+
+nucmer b38_alt.fa chimpanzee.fa --prefix b38_alt
+show-coords -rcl b38_alt.delta > b38_alt.coords
+nucmer b38_alt.fa chimpanzee.fa --prefix b38
+show-coords -rcl b38.delta > b38.coords

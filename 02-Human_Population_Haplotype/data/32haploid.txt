@@ -1,0 +1,530 @@
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_HG00096_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	14110394	14137309	|	26920	26916	|	97.67	|	52149	20983929	|	51.62	0.13	|	chr7_KI270803v1_alt:749409-801557	cluster14_contig_17
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_HG00096_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	1264053	1211903	|	52149	52151	|	99.64	|	52149	17217334	|	100.00	0.30	|	chr7_KI270803v1_alt:749409-801557	cluster14_contig_66
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_HG00171_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	14526727	14578880	|	52149	52154	|	99.64	|	52149	15847791	|	100.00	0.33	|	chr7_KI270803v1_alt:749409-801557	cluster14_contig_14
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_HG00171_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	14158688	14210841	|	52149	52154	|	99.64	|	52149	21267157	|	100.00	0.25	|	chr7_KI270803v1_alt:749409-801557	cluster14_contig_33
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200628_HHU_assembly-results_CCS_v12/v12_HG00512_hgsvc_pbsq2-ccs_1000-pereg.h1-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	67863233	67890147	|	26920	26915	|	97.68	|	52149	68707096	|	51.62	0.04	|	chr7_KI270803v1_alt:749409-801557	cluster1_000000F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200628_HHU_assembly-results_CCS_v12/v12_HG00512_hgsvc_pbsq2-ccs_1000-pereg.h2-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	14114995	14141909	|	26920	26915	|	97.68	|	52149	14889685	|	51.62	0.18	|	chr7_KI270803v1_alt:749409-801557	cluster1_000003F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_HG00512_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	822075	795161	|	26920	26915	|	97.68	|	52149	14932053	|	51.62	0.18	|	chr7_KI270803v1_alt:749409-801557	cluster13_contig_16
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_HG00512_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	822136	795220	|	26920	26917	|	97.67	|	52149	1506634	|	51.62	1.79	|	chr7_KI270803v1_alt:749409-801557	cluster13_contig_38
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200628_HHU_assembly-results_CCS_v12/v12_HG00513_hgsvc_pbsq2-ccs_1000-pereg.h1-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	10208964	10235878	|	26920	26915	|	97.68	|	52149	11056552	|	51.62	0.24	|	chr7_KI270803v1_alt:749409-801557	cluster10_000004F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200628_HHU_assembly-results_CCS_v12/v12_HG00513_hgsvc_pbsq2-ccs_1000-pereg.h2-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	14185518	14212432	|	26920	26915	|	97.68	|	52149	15093060	|	51.62	0.18	|	chr7_KI270803v1_alt:749409-801557	cluster10_000003F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_HG00513_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	6936716	6909801	|	26920	26916	|	97.67	|	52149	21059572	|	51.62	0.13	|	chr7_KI270803v1_alt:749409-801557	cluster19_scaffold_15
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_HG00513_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	15928644	15955559	|	26920	26916	|	97.68	|	52149	16756687	|	51.62	0.16	|	chr7_KI270803v1_alt:749409-801557	cluster19_contig_27
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200810_HHU_assembly-results_HG00514_v12/v12_HG00514_hgsvc_pbsq2-ccs_1000-pereg.h1-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	67913363	67940277	|	26920	26915	|	97.68	|	52149	68771263	|	51.62	0.04	|	chr7_KI270803v1_alt:749409-801557	cluster13_000000F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200810_HHU_assembly-results_HG00514_v12/v12_HG00514_hgsvc_pbsq2-ccs_1000-pereg.h2-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	14116593	14143508	|	26920	26916	|	97.67	|	52149	14973705	|	51.62	0.18	|	chr7_KI270803v1_alt:749409-801557	cluster13_000002F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200810_HHU_assembly-results_HG00514_v12/v12_HG00514_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	781292	808210	|	26920	26919	|	97.66	|	52149	1642112	|	51.62	1.64	|	chr7_KI270803v1_alt:749409-801557	cluster2_contig_37
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200810_HHU_assembly-results_HG00514_v12/v12_HG00514_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	869907	842989	|	26920	26919	|	97.66	|	52149	16757656	|	51.62	0.16	|	chr7_KI270803v1_alt:749409-801557	cluster2_contig_11
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200628_HHU_assembly-results_CCS_v12/v12_HG00731_hgsvc_pbsq2-ccs_1000-pereg.h1-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	14171995	14198910	|	26920	26916	|	97.67	|	52149	14963888	|	51.62	0.18	|	chr7_KI270803v1_alt:749409-801557	cluster4_000003F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200628_HHU_assembly-results_CCS_v12/v12_HG00731_hgsvc_pbsq2-ccs_1000-pereg.h2-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	775461	748547	|	26920	26915	|	97.67	|	52149	14918242	|	51.62	0.18	|	chr7_KI270803v1_alt:749409-801557	cluster4_000003F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_HG00731_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	895255	868341	|	26920	26915	|	97.67	|	52149	15053929	|	51.62	0.18	|	chr7_KI270803v1_alt:749409-801557	cluster6_contig_43
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_HG00731_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	937929	911014	|	26920	26916	|	97.67	|	52149	40467530	|	51.62	0.07	|	chr7_KI270803v1_alt:749409-801557	cluster6_contig_23
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200628_HHU_assembly-results_CCS_v12/v12_HG00732_hgsvc_pbsq2-ccs_1000-pereg.h1-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	41719870	41772022	|	52149	52153	|	99.65	|	52149	42577876	|	100.00	0.12	|	chr7_KI270803v1_alt:749409-801557	cluster16_000000F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200628_HHU_assembly-results_CCS_v12/v12_HG00732_hgsvc_pbsq2-ccs_1000-pereg.h2-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	10609385	10661537	|	52149	52153	|	99.64	|	52149	11483034	|	100.00	0.45	|	chr7_KI270803v1_alt:749409-801557	cluster16_000004F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200716_UW_assembly-results_CLR_v12/v12_HG00732_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	7720751	7772904	|	52149	52154	|	99.65	|	52149	8581190	|	100.00	0.61	|	chr7_KI270803v1_alt:749409-801557	cluster17_contig_14
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200716_UW_assembly-results_CLR_v12/v12_HG00732_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	860611	808459	|	52149	52153	|	99.64	|	52149	8586869	|	100.00	0.61	|	chr7_KI270803v1_alt:749409-801557	cluster17_contig_22
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200628_HHU_assembly-results_CCS_v12/v12_HG00733_hgsvc_pbsq2-ccs_1000-pereg.h1-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	879890	827740	|	52149	52151	|	99.64	|	52149	15082701	|	100.00	0.35	|	chr7_KI270803v1_alt:749409-801557	cluster14_000003F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200628_HHU_assembly-results_CCS_v12/v12_HG00733_hgsvc_pbsq2-ccs_1000-pereg.h2-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	776351	749436	|	26920	26916	|	97.67	|	52149	14945013	|	51.62	0.18	|	chr7_KI270803v1_alt:749409-801557	cluster14_000003F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_HG00733_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	940772	888620	|	52149	52153	|	99.64	|	52149	40491476	|	100.00	0.13	|	chr7_KI270803v1_alt:749409-801557	cluster20_contig_18
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_HG00733_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	918367	891452	|	26920	26916	|	97.67	|	52149	40456779	|	51.62	0.07	|	chr7_KI270803v1_alt:749409-801557	cluster20_contig_27
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_HG00864_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	721574	748488	|	26920	26915	|	97.68	|	52149	1616858	|	51.62	1.66	|	chr7_KI270803v1_alt:749409-801557	cluster8_contig_42
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_HG00864_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	839912	812998	|	26920	26915	|	97.68	|	52149	40331433	|	51.62	0.07	|	chr7_KI270803v1_alt:749409-801557	cluster8_contig_8
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_HG01114_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	8388	52149	|	310553	354317	|	43762	43765	|	99.59	|	52149	1145363	|	83.92	3.82	|	chr7_KI270803v1_alt:749409-801557	cluster14_contig_29
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_HG01114_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	848686	796533	|	52149	52154	|	99.64	|	52149	15032310	|	100.00	0.35	|	chr7_KI270803v1_alt:749409-801557	cluster14_contig_22
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_HG01505_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	14150169	14202320	|	52149	52152	|	99.64	|	52149	15010648	|	100.00	0.35	|	chr7_KI270803v1_alt:749409-801557	cluster14_contig_6
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_HG01505_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	14148151	14175065	|	26920	26915	|	97.68	|	52149	14987356	|	51.62	0.18	|	chr7_KI270803v1_alt:749409-801557	cluster14_contig_32
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_HG01596_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	948287	896087	|	52149	52201	|	99.17	|	52149	5198266	|	100.00	1.00	|	chr7_KI270803v1_alt:749409-801557	cluster15_contig_19
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_HG01596_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	822656	795743	|	26920	26914	|	97.68	|	52149	5125871	|	51.62	0.53	|	chr7_KI270803v1_alt:749409-801557	cluster15_scaffold_49
+	10004	29886	|	1505	21529	|	19883	20025	|	96.04	|	52149	21529	|	38.13	93.01	|	chr7_KI270803v1_alt:749409-801557	cluster15_contig_256
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200828_JAX_assembly-results_CLR_v12/v12_HG02011_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	14130782	14157695	|	26920	26914	|	97.71	|	52149	14971103	|	51.62	0.18	|	chr7_KI270803v1_alt:749409-801557	cluster12_contig_9
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200828_JAX_assembly-results_CLR_v12/v12_HG02011_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	915817	863666	|	52149	52152	|	99.65	|	52149	40441931	|	100.00	0.13	|	chr7_KI270803v1_alt:749409-801557	cluster12_contig_12
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200716_UW_assembly-results_CLR_v12/v12_HG02492_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	6952417	6900233	|	52149	52185	|	99.40	|	52149	15626106	|	100.00	0.33	|	chr7_KI270803v1_alt:749409-801557	cluster18_scaffold_24
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200716_UW_assembly-results_CLR_v12/v12_HG02492_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	40481	|	916175	875694	|	40481	40482	|	99.07	|	52149	989676	|	77.63	4.09	|	chr7_KI270803v1_alt:749409-801557	cluster18_contig_25
+	1	29895	|	83306	113198	|	29895	29893	|	97.01	|	52149	113198	|	57.33	26.41	|	chr7_KI270803v1_alt:749409-801557	cluster18_contig_31
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_HG02587_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	19486855	19538995	|	52149	52141	|	99.62	|	52149	20329603	|	100.00	0.26	|	chr7_KI270803v1_alt:749409-801557	cluster3_contig_27
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_HG02587_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	6962675	6935763	|	26920	26913	|	97.68	|	52149	21110054	|	51.62	0.13	|	chr7_KI270803v1_alt:749409-801557	cluster3_scaffold_1
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200717_HHU_assembly-results_CCS_v12/v12_HG02818_hgsvc_pbsq2-ccs_1000-pereg.h1-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	721525	773684	|	52149	52160	|	99.85	|	52149	1640879	|	100.00	3.18	|	chr7_KI270803v1_alt:749409-801557	cluster11_000014F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200717_HHU_assembly-results_CCS_v12/v12_HG02818_hgsvc_pbsq2-ccs_1000-pereg.h2-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	723441	775585	|	52149	52145	|	99.64	|	52149	1620992	|	100.00	3.22	|	chr7_KI270803v1_alt:749409-801557	cluster11_000018F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200828_JAX_assembly-results_CLR_v12/v12_HG03009_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	50557	|	126278	176840	|	50557	50563	|	99.65	|	52149	176840	|	96.95	28.59	|	chr7_KI270803v1_alt:749409-801557	cluster14_contig_171
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200828_JAX_assembly-results_CLR_v12/v12_HG03009_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	7164083	7111927	|	52149	52157	|	99.64	|	52149	21272426	|	100.00	0.25	|	chr7_KI270803v1_alt:749409-801557	cluster14_scaffold_76
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200828_JAX_assembly-results_CLR_v12/v12_HG03065_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	915630	863473	|	52149	52158	|	99.62	|	52149	15096312	|	100.00	0.35	|	chr7_KI270803v1_alt:749409-801557	cluster11_contig_24
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200828_JAX_assembly-results_CLR_v12/v12_HG03065_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	849379	797228	|	52149	52152	|	99.64	|	52149	40413298	|	100.00	0.13	|	chr7_KI270803v1_alt:749409-801557	cluster11_contig_1
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200717_HHU_assembly-results_CCS_v12/v12_HG03125_hgsvc_pbsq2-ccs_1000-pereg.h1-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	10215384	10267530	|	52149	52147	|	99.64	|	52149	11127499	|	100.00	0.47	|	chr7_KI270803v1_alt:749409-801557	cluster1_000004F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200717_HHU_assembly-results_CCS_v12/v12_HG03125_hgsvc_pbsq2-ccs_1000-pereg.h2-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	2169643	2221781	|	52149	52139	|	99.63	|	52149	3027965	|	100.00	1.72	|	chr7_KI270803v1_alt:749409-801557	cluster1_000011F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200716_UW_assembly-results_CLR_v12/v12_HG03371_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	916356	864198	|	52149	52159	|	99.52	|	52149	20953155	|	100.00	0.25	|	chr7_KI270803v1_alt:749409-801557	cluster16_contig_14
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200716_UW_assembly-results_CLR_v12/v12_HG03371_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	917607	865475	|	52149	52133	|	99.56	|	52149	40456594	|	100.00	0.13	|	chr7_KI270803v1_alt:749409-801557	cluster16_contig_19
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200717_HHU_assembly-results_CCS_v12/v12_HG03486_hgsvc_pbsq2-ccs_1000-pereg.h1-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	856310	804175	|	52149	52136	|	99.63	|	52149	3232128	|	100.00	1.61	|	chr7_KI270803v1_alt:749409-801557	cluster2_000011F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200717_HHU_assembly-results_CCS_v12/v12_HG03486_hgsvc_pbsq2-ccs_1000-pereg.h2-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	14205665	14257816	|	52149	52152	|	99.64	|	52149	15131844	|	100.00	0.34	|	chr7_KI270803v1_alt:749409-801557	cluster2_000003F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200828_JAX_assembly-results_CLR_v12/v12_HG03683_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	774524	747598	|	26920	26927	|	98.01	|	52149	14926466	|	51.62	0.18	|	chr7_KI270803v1_alt:749409-801557	cluster13_contig_45
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200828_JAX_assembly-results_CLR_v12/v12_HG03683_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	12720	52149	|	903342	863891	|	39430	39452	|	98.45	|	52149	40442713	|	75.61	0.10	|	chr7_KI270803v1_alt:749409-801557	cluster13_contig_27
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_HG03732_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	39516305	39543219	|	26920	26915	|	97.68	|	52149	40337628	|	51.62	0.07	|	chr7_KI270803v1_alt:749409-801557	cluster1_contig_37
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_HG03732_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	1299391	1272477	|	26920	26915	|	97.68	|	52149	15451895	|	51.62	0.17	|	chr7_KI270803v1_alt:749409-801557	cluster1_contig_26
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200716_UW_assembly-results_CLR_v12/v12_NA12329_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	14143890	14196058	|	52149	52169	|	99.58	|	52149	15004295	|	100.00	0.35	|	chr7_KI270803v1_alt:749409-801557	cluster21_contig_15
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200716_UW_assembly-results_CLR_v12/v12_NA12329_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	822064	795150	|	26920	26915	|	97.67	|	52149	40367419	|	51.62	0.07	|	chr7_KI270803v1_alt:749409-801557	cluster21_contig_23
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200628_HHU_assembly-results_CCS_v12/v12_NA12878_giab_pbsq2-ccs_1000-pereg.h1-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	14208918	14261069	|	52149	52152	|	99.64	|	52149	15129630	|	100.00	0.34	|	chr7_KI270803v1_alt:749409-801557	cluster10_000003F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200628_HHU_assembly-results_CCS_v12/v12_NA12878_giab_pbsq2-ccs_1000-pereg.h2-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	14092639	14144791	|	52149	52153	|	99.64	|	52149	15013553	|	100.00	0.35	|	chr7_KI270803v1_alt:749409-801557	cluster10_000003F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_NA18534_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	39498207	39525122	|	26920	26916	|	97.67	|	52149	40393436	|	51.62	0.07	|	chr7_KI270803v1_alt:749409-801557	cluster4_contig_9
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_NA18534_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	743686	770600	|	26920	26915	|	97.68	|	52149	1639878	|	51.62	1.64	|	chr7_KI270803v1_alt:749409-801557	cluster4_contig_39
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_NA18939_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	895286	868372	|	26920	26915	|	97.67	|	52149	15039172	|	51.62	0.18	|	chr7_KI270803v1_alt:749409-801557	cluster15_contig_26
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_NA18939_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	14198861	14225776	|	26920	26916	|	97.67	|	52149	15094118	|	51.62	0.18	|	chr7_KI270803v1_alt:749409-801557	cluster15_contig_38
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200628_HHU_assembly-results_CCS_v12/v12_NA19238_hgsvc_pbsq2-ccs_1000-pereg.h1-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	862612	810480	|	52149	52133	|	99.58	|	52149	1274812	|	100.00	4.09	|	chr7_KI270803v1_alt:749409-801557	cluster15_000017F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200628_HHU_assembly-results_CCS_v12/v12_NA19238_hgsvc_pbsq2-ccs_1000-pereg.h2-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	802312	750156	|	52149	52157	|	99.62	|	52149	11014731	|	100.00	0.47	|	chr7_KI270803v1_alt:749409-801557	cluster15_000003F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200828_JAX_assembly-results_CLR_v12/v12_NA19238_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	848631	796498	|	52149	52134	|	99.58	|	52149	922044	|	100.00	5.65	|	chr7_KI270803v1_alt:749409-801557	cluster6_contig_65
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200828_JAX_assembly-results_CLR_v12/v12_NA19238_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	73535	125698	|	52149	52164	|	99.61	|	52149	995584	|	100.00	5.24	|	chr7_KI270803v1_alt:749409-801557	cluster6_contig_13
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200628_HHU_assembly-results_CCS_v12/v12_NA19239_hgsvc_pbsq2-ccs_1000-pereg.h1-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	4552324	4604462	|	52149	52139	|	99.60	|	52149	5475823	|	100.00	0.95	|	chr7_KI270803v1_alt:749409-801557	cluster11_000009F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200628_HHU_assembly-results_CCS_v12/v12_NA19239_hgsvc_pbsq2-ccs_1000-pereg.h2-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	14151273	14203410	|	52149	52138	|	99.63	|	52149	15022937	|	100.00	0.35	|	chr7_KI270803v1_alt:749409-801557	cluster11_000004F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_NA19239_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	1246767	1194626	|	52149	52142	|	99.62	|	52149	15375193	|	100.00	0.34	|	chr7_KI270803v1_alt:749409-801557	cluster14_contig_13
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_NA19239_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	15870689	15922830	|	52149	52142	|	99.60	|	52149	16786926	|	100.00	0.31	|	chr7_KI270803v1_alt:749409-801557	cluster14_contig_13
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200628_HHU_assembly-results_CCS_v12/v12_NA19240_hgsvc_pbsq2-ccs_1000-pereg.h1-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	924105	871968	|	52149	52138	|	99.63	|	52149	15048525	|	100.00	0.35	|	chr7_KI270803v1_alt:749409-801557	cluster5_000003F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200628_HHU_assembly-results_CCS_v12/v12_NA19240_hgsvc_pbsq2-ccs_1000-pereg.h2-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	800273	748117	|	52149	52157	|	99.62	|	52149	14982252	|	100.00	0.35	|	chr7_KI270803v1_alt:749409-801557	cluster5_000004F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200716_UW_assembly-results_CLR_v12/v12_NA19240_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	15907244	15959382	|	52149	52139	|	99.62	|	52149	16761396	|	100.00	0.31	|	chr7_KI270803v1_alt:749409-801557	cluster17_contig_19
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200716_UW_assembly-results_CLR_v12/v12_NA19240_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	822045	769887	|	52149	52159	|	99.62	|	52149	40343171	|	100.00	0.13	|	chr7_KI270803v1_alt:749409-801557	cluster17_contig_17
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_NA19650_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	5966142	6018285	|	52149	52144	|	99.62	|	52149	6918050	|	100.00	0.75	|	chr7_KI270803v1_alt:749409-801557	cluster5_contig_11
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_NA19650_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	1318681	1266516	|	52149	52166	|	99.59	|	52149	7652447	|	100.00	0.68	|	chr7_KI270803v1_alt:749409-801557	cluster5_contig_18
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200716_UW_assembly-results_CLR_v12/v12_NA19983_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	922099	869964	|	52149	52136	|	99.62	|	52149	40452506	|	100.00	0.13	|	chr7_KI270803v1_alt:749409-801557	cluster5_contig_9
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200716_UW_assembly-results_CLR_v12/v12_NA19983_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	39545776	39597912	|	52149	52137	|	99.61	|	52149	40461583	|	100.00	0.13	|	chr7_KI270803v1_alt:749409-801557	cluster5_contig_24
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_NA20509_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	39558770	39610919	|	52149	52150	|	99.49	|	52149	40401444	|	100.00	0.13	|	chr7_KI270803v1_alt:749409-801557	cluster5_contig_10
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_NA20509_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	33388	|	916314	882906	|	33388	33409	|	99.08	|	52149	15071915	|	64.02	0.22	|	chr7_KI270803v1_alt:749409-801557	cluster5_contig_43
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_NA20847_hgsvc_pbsq2-clr_1000-flye.h1-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	794948	742793	|	52149	52156	|	99.46	|	52149	14934022	|	100.00	0.35	|	chr7_KI270803v1_alt:749409-801557	cluster18_contig_12
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200612_HHU_assembly-results_CLR_v12/v12_NA20847_hgsvc_pbsq2-clr_1000-flye.h2-un.arrow-p1.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	26920	|	1341760	1314846	|	26920	26915	|	97.67	|	52149	15438325	|	51.62	0.17	|	chr7_KI270803v1_alt:749409-801557	cluster18_scaffold_112
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200628_HHU_assembly-results_CCS_v12/v12_NA24385_hpg_pbsq2-ccs_1000-pereg.h1-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	4047427	4099578	|	52149	52152	|	99.64	|	52149	4990458	|	100.00	1.05	|	chr7_KI270803v1_alt:749409-801557	cluster16_000007F
+/picb/humpopg-bigdata2/wangyimin/PRSS/32haploid_assembly/data/b38_alt.fa	/picb/humpopg-bigdata5/AAGC/archive/20210225_science_64_haplotype-resolved_human_genome/HGSVC2_haplotype_resolved_genome/20200628_HHU_assembly-results_CCS_v12/v12_NA24385_hpg_pbsq2-ccs_1000-pereg.h2-un.racon-p2.fasta
+NUCMER
+
+	[S1]	[E1]	|	[S2]	[E2]	|	[LEN	1]	[LEN	2]	|	[%	IDY]	|	[LEN	R]	[LEN	Q]	|	[COV	R]	[COV	Q]	|	[TAGS]
+===============================================================================================================================
+	1	52149	|	14147527	14199675	|	52149	52149	|	99.65	|	52149	15029404	|	100.00	0.35	|	chr7_KI270803v1_alt:749409-801557	cluster16_000003F
