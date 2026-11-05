@@ -1,0 +1,29 @@
+CEL
+Chimpanzee(re)	samtools faidx /picb/humpopg-bigdata/xiebo/NGS/reference/Great_ape_fastq/Chimpanzee_fasta/Yerkes_chimp_pedigree.fasta NBAG03000232.1:4323800-4369845 > chimp.CEL.REF.fa
+DUP2
+HG002.1(re)		samtools faidx /picb/humpopg-bigdata5/louhaiyi/resource/HPRC/HG002.1.fa HG002#1#JAHKSE010000031.1:5393284-5459056 > HG002.1.CEL.DUP2.fa
+HG005.2			samtools faidx /picb/humpopg-bigdata5/louhaiyi/resource/HPRC/HG005.2.fa HG005#2#JAHEPN010000078.1:6185356-6251129 > HG005.2.CEL.DUP2.fa
+DUP1
+HG01175.2		samtools faidx /picb/humpopg-bigdata5/louhaiyi/resource/HPRC/HG01175.2.fa HG01175#2#JAHALZ010000029.1:20013069-20074283 > HG01175.2.CEL.DUP1.fa
+HG02257.2		samtools faidx /picb/humpopg-bigdata5/louhaiyi/resource/HPRC/HG02257.2.fa HG02257#2#JAGYVH010000120.1:2754511-2815690 > HG02257.2.CEL.DUP1.fa
+REF
+HG01978.2		samtools faidx /picb/humpopg-bigdata5/louhaiyi/resource/HPRC/HG01978.2.fa HG01978#2#JAGYVR010000037.1:464205-509652 > HG01978.2.CEL.REF.fa
+HG02559.2		samtools faidx /picb/humpopg-bigdata5/louhaiyi/resource/HPRC/HG02559.2.fa HG02559#2#JAGYVJ010000018.1:135739459-135784822 > HG02559.2.CEL.REF.fa
+HG03098.1		samtools faidx /picb/humpopg-bigdata5/louhaiyi/resource/HPRC/HG03098.1.fa HG03098#1#JAHEPM010000021.1:133400367-133445652 > HG03098.1.CEL.REF.fa
+NA19240.1(re)	samtools faidx /picb/humpopg-bigdata5/louhaiyi/resource/HPRC/NA19240.1.fa NA19240#1#JAHEOM010000083.1:4285364-4330618 > NA19240.1.CEL.REF.fa
+
+
+CLPS
+Chimpanzee		samtools faidx /picb/humpopg-bigdata/xiebo/NGS/reference/Great_ape_fastq/Chimpanzee_fasta/Yerkes_chimp_pedigree.fasta NBAG03000221.1:8745730-8783742 > chimp.CLPS.REF.fa
+DUP(2)
+HG00438.1(re)	samtools faidx /picb/humpopg-bigdata5/louhaiyi/resource/HPRC/HG00438.1.fa HG00438#1#JAHBCB010000040.1:20528449-20578758 > HG00438.1.CLPS.DUP2.fa
+HG00673.2		samtools faidx /picb/humpopg-bigdata5/louhaiyi/resource/HPRC/HG00673.2.fa HG00673#2#JAHBBY010000031.1:4252408-4302714 > HG00673.2.CLPS.DUP2.fa
+HG01109.2(re)	samtools faidx /picb/humpopg-bigdata5/louhaiyi/resource/HPRC/HG01109.2.fa HG01109#2#JAHEOZ010000001.1:24718779-24769124 > HG01109.2.CLPS.DUP2.fa
+HG02109.1		samtools faidx /picb/humpopg-bigdata5/louhaiyi/resource/HPRC/HG02109.1.fa HG02109#1#JAHEPG010000148.1:1335696-1386034 > HG02109.1.CLPS.DUP2.fa
+DUP(3)
+HG02622.1(re)	samtools faidx /picb/humpopg-bigdata5/louhaiyi/resource/HPRC/HG02622.1.fa HG02622#1#JAHAOO010000042.1:24649969-24712513 > HG02622.1.CLPS.DUP3.fa
+REF
+HG00673.1		samtools faidx /picb/humpopg-bigdata5/louhaiyi/resource/HPRC/HG00673.1.fa HG00673#1#JAHBBZ010000030.1:35599628-35637737 > HG00673.1.CLPS.REF.fa
+HG01071.2(re)	samtools faidx /picb/humpopg-bigdata5/louhaiyi/resource/HPRC/HG01071.2.fa HG01071#2#JAHBCE010000076.1:4068938-4107031 > HG01071.2.CLPS.REF.fa
+HG01928.2		samtools faidx /picb/humpopg-bigdata5/louhaiyi/resource/HPRC/HG01928.2.fa HG01928#2#JAGYVP010000017.1:35794194-35832298 > HG01928.2.CLPS.REF.fa
+HG02818.1		samtools faidx /picb/humpopg-bigdata5/louhaiyi/resource/HPRC/HG02818.1.fa HG02818#1#JAHEOS010000026.1:7102572-7140695 > HG02818.1.CLPS.REF.fa
