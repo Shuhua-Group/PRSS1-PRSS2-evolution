@@ -1,0 +1,22 @@
+#gibbon+orangutan+chimp(apeonly)
+All    	0.34092
+copy1~6	0.21586 0.21728 0.50318 0.33984 0.61896 0.21924
+
+#gibbon+orangutan+chimp+human(ape)
+All    	0.45147
+copy1~6	0.22591 0.22606 0.51528 0.31538 0.41427 0.26760
+
+#原猴+新世界猴+gibbon+orangutan+chimp+human(HQ)
+All    	0.45712
+原猴   	0.11417
+新世界猴	0.27187
+copy1~6	0.20293 0.21510 0.50441 0.31640 0.37187 0.24429
+
+#human all haplotypes(human)
+All    	0.44702
+CN5 	0.20202 0.38445 0.24201 0.39986 0.43623
+CN3 	0.44050 0.72241 0.83096
+
+#human major haplotypes(humanmain)
+All    	0.34609
+copy1~5	0.44785 0.39606 0.41110 0.37100 0.34635

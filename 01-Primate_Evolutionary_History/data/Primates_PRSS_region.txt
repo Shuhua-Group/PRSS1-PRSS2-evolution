@@ -1,0 +1,15 @@
+chimpanzee PRSS:5copy
+chr7:127124-137734
+chr7:137735-148431（human copy1）
+chr7:148432-159015（human copy2）
+chr7:159016-169681（human copy3）
+chr7:169682-179356（human copy4）
+chr7:179357-180951
+
+bonobo PRSS:5copy
+
+
+gorilla PRSS:5copy
+
+
+Orangutan PRSS:5copy

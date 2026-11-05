@@ -1,0 +1,23 @@
+library(pheatmap)
+library(ggplot2)
+#data<-read.table("human3-human5.txt",
+#data<-read.table("human5-human5.txt",
+#data<-read.table("human5-chimp6.txt",
+#data<-read.table("chimp6-chimp6.txt",
+#data<-read.table("gibbon3-gibbon3.txt",
+#data<-read.table("gibbon3-chimp6.txt",
+#data<-read.table("gibbon3-gelada9.txt",
+#data<-read.table("chimp6-gelada9.txt",
+#data<-read.table("capuchin1-chimp6.txt",
+data<-read.table("gelada9-gelada9.txt",
+	header=T,row.names=1)
+bk=c(seq(85,97,by=0.1188))
+p<-pheatmap(data,
+	border="white",
+	cluster_cols=F,
+	cluster_rows=F,
+	fontsize_row=12,
+	fontsize_col=12,
+	#color = colorRampPalette(c("yellow", "red"))(150),
+	breaks=bk
+)

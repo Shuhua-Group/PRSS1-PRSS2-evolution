@@ -1,0 +1,19 @@
+species	copy_index	issue	details
+Chimpanzee	1	length_mismatch	position_span=3526; table_length=3527
+Gorilla	1	length_mismatch	position_span=3518; table_length=3527
+Gorilla	2	length_mismatch	position_span=3535; table_length=3536
+Gorilla	3	length_mismatch	position_span=5456; table_length=5453
+Gorilla	4	length_mismatch	position_span=3526; table_length=3525
+Gorilla	5	length_mismatch	position_span=3751; table_length=4296
+Gorilla	6	length_mismatch	position_span=3525; table_length=3526
+Bonobo	3	length_mismatch	position_span=5456; table_length=5453
+Bonobo	5	length_mismatch	position_span=3749; table_length=4296
+Pongo Pygmaeus	3	length_mismatch	position_span=5451; table_length=5452
+Pongo Pygmaeus	5	length_mismatch	position_span=4297; table_length=4302
+Pongo Pygmaeus	6	length_mismatch	position_span=3537; table_length=3535
+Pongo Abelii	1	length_mismatch	position_span=3511; table_length=3514
+Pongo Abelii	2	length_mismatch	position_span=3531; table_length=3530
+Pongo Abelii	3	length_mismatch	position_span=5451; table_length=5452
+Pongo Abelii	4	length_mismatch	position_span=3532; table_length=3525
+Pongo Abelii	6	length_mismatch	position_span=3536; table_length=3535
+Pongo Abelii	4,5	overlap	overlap_bp=3532

@@ -1,0 +1,10 @@
+samtools faidx /picb/humpopg-bigdata5/AAGC/bundle/02.reference_genomes/GRCh38_full_analysis_set_plus_decoy_hla.fa chr7:142746873-142778584 > b38_PRSSonly.fasta
+#samtools faidx /picb/humpopg-bigdata5/AAGC/bundle/02.reference_genomes/GRCh38_full_analysis_set_plus_decoy_hla.fa chr7:142746873-142757513 > b38_PRSS_copy1.fasta
+#samtools faidx /picb/humpopg-bigdata5/AAGC/bundle/02.reference_genomes/GRCh38_full_analysis_set_plus_decoy_hla.fa chr7:142757514-142768092 > b38_PRSS_copy2.fasta
+#samtools faidx /picb/humpopg-bigdata5/AAGC/bundle/02.reference_genomes/GRCh38_full_analysis_set_plus_decoy_hla.fa chr7:142768093-142778584 > b38_PRSS_copy3.fasta
+samtools faidx /picb/humpopg-bigdata5/AAGC/bundle/02.reference_genomes/GRCh38_full_analysis_set_plus_decoy_hla.fa chr7_KI270803v1_alt:749409-801557 > b38_PRSSonly_alt.fasta
+#samtools faidx /picb/humpopg-bigdata5/AAGC/bundle/02.reference_genomes/GRCh38_full_analysis_set_plus_decoy_hla.fa chr7_KI270803v1_alt:749409-760105 > b38_PRSSalt_copy1.fasta
+#samtools faidx /picb/humpopg-bigdata5/AAGC/bundle/02.reference_genomes/GRCh38_full_analysis_set_plus_decoy_hla.fa chr7_KI270803v1_alt:760106-770685 > b38_PRSSalt_copy2.fasta
+#samtools faidx /picb/humpopg-bigdata5/AAGC/bundle/02.reference_genomes/GRCh38_full_analysis_set_plus_decoy_hla.fa chr7_KI270803v1_alt:770686-781262 > b38_PRSSalt_copy3.fasta
+#samtools faidx /picb/humpopg-bigdata5/AAGC/bundle/02.reference_genomes/GRCh38_full_analysis_set_plus_decoy_hla.fa chr7_KI270803v1_alt:781263-791064 > b38_PRSSalt_copy4.fasta
+#samtools faidx /picb/humpopg-bigdata5/AAGC/bundle/02.reference_genomes/GRCh38_full_analysis_set_plus_decoy_hla.fa chr7_KI270803v1_alt:791065-801557 > b38_PRSSalt_copy5.fasta
